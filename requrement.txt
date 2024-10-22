@@ -1,0 +1,15 @@
+This is what our bot will do :
+1.It will go to the market and search for the product that we want
+
+2.It will check it's historical data
+
+3.By analyzing that data and by using some stragedy it will predict what to do . Buy/sell
+
+What type of potential tech stack we will need for it:
+1.Requests(for making requests using api)
+2.Numpy (for doing numeric operations )
+3.pandas (for reading csv)
+4.Time (for giving time sense to the bot)
+5.Backtesting framework
+6.Ta lib (for technical analysis )
+7.Finally the api

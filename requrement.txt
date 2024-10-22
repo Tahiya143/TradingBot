@@ -11,6 +11,6 @@ What type of potential tech stack we will need for it:
 3.pandas (for reading csv)
 4.Time (for giving time sense to the bot)
 5.Backtesting framework
-6.Ta lib (for technical analysis )
+6.Ta lib or pandas_ta (for technical analysis )
 7.Finally, the api
 8.websocket (For streaming real-time market data)

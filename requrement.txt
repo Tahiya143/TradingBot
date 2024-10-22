@@ -3,7 +3,7 @@ This is what our bot will do :
 
 2.It will check it's historical data
 
-3.By analyzing that data and by using some stragedy it will predict what to do . Buy/sell
+3.By analyzing that data and by using some strategy it will predict what to do . Buy/sell
 
 What type of potential tech stack we will need for it:
 1.Requests(for making requests using api)
